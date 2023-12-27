@@ -1,0 +1,222 @@
+p,
+footer {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0px;
+	background-color: #b77c4298 !important ;
+}
+
+li {
+	margin-left: 40px;
+}
+
+nav {
+	background-image: url(../images/logo.png);
+	background-size: 45px;
+	background-repeat: no-repeat;
+	display: flex;
+}
+
+#home_header {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+		url(../images/samoyed.jpg);
+	background-size: cover;
+	width: 100%;
+	min-height: 800px;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+header section {
+	margin-top: 230px;
+	margin-left: 60px;
+	width: 35%;
+	font-size: 20px;
+}
+
+#learnmore {
+	padding: 12px;
+	display: inline-block;
+	margin-top: 10px;
+	font-weight: 300;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	padding-top: 8px;
+}
+
+h2 {
+	padding: 10px;
+	font-size: 28px !important;
+	padding-left: 20px;
+}
+
+#form-section {
+	padding-left: 70px;
+	padding-right: 50px;
+	padding-top: 30px;
+	padding-bottom: 35px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 35px;
+	margin-top: 27px;
+	background-color: #b77c4280;
+}
+
+#submit {
+	padding: 10px;
+	display: inline-block;
+	font-weight: 600;
+	font-size: 15px;
+	text-decoration: none;
+	border: none;
+	width: 100px;
+}
+
+#form-section p {
+	text-align: center;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+#mail-img {
+	margin-top: 100px;
+}
+
+#services {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 30px;
+	padding-bottom: 35px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 7px;
+	background-color: #b77c4280;
+}
+
+#services li {
+	margin: 0px;
+}
+
+.prices {
+	width: 20px;
+}
+
+.col-2 li {
+	list-style-type: none;
+}
+
+button {
+	border: none;
+	padding: 10px;
+}
+
+.card-title {
+	text-align: center;
+	font-size: 23px;
+	color: #84572a !important;
+}
+
+#service-header,
+#about-header {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 15px;
+	color: #513417;
+}
+
+#about-section {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: #b77c4280;
+	padding: 20px;
+	color: #513417;
+}
+
+h4 {
+	padding-top: 20px;
+}
+
+.short {
+	background-color: #b77c4298;
+	padding-bottom: 30px;
+	font-size: 18px;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+#index-section .row {
+	margin: 0px !important;
+}
+
+#index-section img {
+	width: 70px;
+	height: 350px;
+}
+
+#index-section {
+	width: 80%;
+	align-self: center;
+}
+
+.short.col p {
+	padding: 25px;
+	margin: 0px;
+}
+
+#index-section #learnmore {
+	margin-left: 30px;
+}
+
+hr {
+	color: #84572a !important;
+}
+
+#index-section h2 {
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+
+button {
+	border-bottom-left-radius: 20px !important;
+	border-bottom-right-radius: 20px !important;
+}
+
+#about-section,
+.short,
+#services,
+.card.h-100,
+#form-section,
+#submit,
+#learnmore {
+	border-radius: 20px;
+}
+
+nav,
+#learnmore,
+footer,
+h2,
+button,
+#submit {
+	background-color: #b77c42;
+}
+
+header section,
+.short,
+#learnmore,
+footer,
+h2,
+button,
+#submit {
+	color: aliceblue !important;
+}
